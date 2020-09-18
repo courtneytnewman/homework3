@@ -56,6 +56,7 @@ table{
 .colhead{
   background-color: #7e0830;
   color: #FFFFFF;
+  border: 2px solid #000000
 }
 
 .rowhead{
