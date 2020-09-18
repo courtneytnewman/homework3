@@ -54,7 +54,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   border: 2px solid #000000
 }
@@ -68,9 +68,17 @@ td{
   padding: 15px;
 }
 
-tr{
-
+tr(nth-child:odd){
+  background-color: #D1D1D1;
 }
+tr(nth-child:even){
+  background-color: transparent;
+}
+
+tr:hover{
+  backrgound-color: rgba(126,8,48,0.25)
+}
+  
 
 *{
 
