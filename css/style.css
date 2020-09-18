@@ -25,7 +25,8 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
-  text-align: center
+  text-align: center;
+  line-height: 2.0;
 }
 
 caption{
