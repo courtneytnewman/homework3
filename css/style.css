@@ -59,13 +59,12 @@ table{
 }
 
 .rowhead{
-  border: 2px solid #000000
+  border: 2px solid #000000;
 
 }
 
 td{
   padding: 15px;
-  border: 2px solid #000000;
 }
 
 tr{
