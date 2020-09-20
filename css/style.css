@@ -70,7 +70,7 @@ table{
 
 td{
   padding: 15px;
-  boder-top: 2px solid #000000;
+  border-top: 2px solid #000000;
 }
 
 tr:nth-child(even){
