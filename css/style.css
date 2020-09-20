@@ -92,7 +92,6 @@ tr:hover{
 thead tr:first-child th:first-child{}
 
 footer{
-  position: fixed;
   width:100%;
   min-height: 75px;
   background:#000000;
