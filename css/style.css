@@ -72,11 +72,8 @@ td{
   padding: 15px;
 }
 
-tr:nth-child(odd){
-  background-color: #D1D1D1;
-}
 tr:nth-child(even){
-  background-color: transparent;
+  background-color: #D1D1D1;
 }
 
 tr:hover{
