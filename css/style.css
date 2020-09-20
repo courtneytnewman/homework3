@@ -49,7 +49,7 @@ a{
 }
 
 table{
-  border-top: 2px solid #000000;
+  border: 2px solid #000000;
   border-collapse: collapse
 }
 
@@ -64,12 +64,13 @@ table{
 }
 
 .rowhead{
-  border-top: 2px solid #000000;
+  border: 2px solid #000000;
 
 }
 
 td{
   padding: 15px;
+  boder-top: 2px solid #000000;
 }
 
 tr:nth-child(even){
