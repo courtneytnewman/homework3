@@ -84,6 +84,10 @@ tr:hover{
   background-color: rgba(126,8,48,0.25);
 }
   
+:focus{
+  border-style: dashed;
+  border-width: 3px;
+  border-color: #417243;
 
 *{
 
