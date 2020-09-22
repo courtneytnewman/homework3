@@ -117,5 +117,7 @@ footer{
   text-align:center;
   color: #FFFFFF;
   position: fixed;
+  left: 0px;
+  bottom: 0px;
 }
 
