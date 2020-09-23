@@ -67,15 +67,17 @@ table{
   text-transform: uppercase;
   text-align: center;
   vertical-align: middle;
+  padding: 10px
 }
 
 .rowhead{
+  padding: 10px;
   border-right: 2px solid #000000;
   border-top: 2px solid #000000;
 }
 
 td{
-  padding: 15px;
+  padding: 10px;
   border-top: 2px solid #000000;
 }
 
